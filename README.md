@@ -60,6 +60,8 @@
   </a>
 </p>
 
+---
+
 <!-- Footer -->
 <div align="center">
   <strong>⭐ If you like my profile, consider starring some repositories or following me! 😊</strong>
